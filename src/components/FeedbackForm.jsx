@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useContext, useEffect } from "react";
+import { useContext } from "react";
 
 import Card from "./shared/Card";
 import Button from "./shared/Button";
